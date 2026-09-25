@@ -41,3 +41,5 @@ Flask_and_MongoDB_Sumit/
 
  static/
     |-- style.css
+## Git Branch Workflow
+this Flask project was developed and committed to the tutedud branch then merged into the main branch.
